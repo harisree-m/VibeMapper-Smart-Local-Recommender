@@ -2,6 +2,28 @@
 
 🚀 A location-aware recommendation app that suggests nearby places based on user mood, preferences, and real-time data.
 
+## 🧩 Problem Statement (PS)
+
+Finding the right place to go nearby often depends on context such as mood, time, budget, and purpose. Users usually switch between multiple apps to check distance, ratings, and open hours, which makes decision-making slow and inefficient. Existing map applications lack personalized, intent-driven recommendations.
+
+This project aims to solve this by building a smart, location-based recommendation system that suggests nearby places based on user mood and preferences, while dynamically considering distance, ratings, and availability in real time.
+
+## 🖼️ System Illustration
+
+```text
+🧠 User Mood / Preference
+   (Work / Date / Budget / Quick Bite)
+            ↓
+📍 User Location
+            ↓
+🗺️ Maps & Places APIs
+            ↓
+📊 Filter & Sorting Logic
+            ↓
+⭐ Ranked Nearby Places
+ (Distance • Ratings • Open Hours)
+```
+
 ## 🔍 What It Does
 - 🧠 User selects a **mood** (work, date, quick bite, budget)
 - 📍 Fetches nearby places using live location
