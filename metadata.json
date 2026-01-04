@@ -1,0 +1,8 @@
+
+{
+  "name": "VibeMapper: Smart Local Recommender",
+  "description": "A mood-based place recommender that uses AI and Google Maps to find the perfect local spots based on your current vibe and location.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
