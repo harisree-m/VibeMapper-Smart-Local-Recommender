@@ -14,24 +14,30 @@
 - 📌 Data: Google Places API
 - 🔄 Logic: Custom filters & sorting algorithms
 
-#Home page
+## Pre-Setup
+
+<img width="1919" height="867" alt="image" src="https://github.com/user-attachments/assets/dffba884-48f4-4e7c-8a06-c078f4bd1385" />
+
+## Home page
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/719de604-0d88-4c1a-8a09-376cd8059661" />
 
-#Selecting your mood
+## Selecting your mood
 
 <img width="930" height="597" alt="image" src="https://github.com/user-attachments/assets/a75d475c-bd2b-4db2-8133-d807830fb921" />
 
-#Searching places
+## Searching places
 
-<img width="960" height="607" alt="image" src="https://github.com/user-attachments/assets/c6b318a4-d3c5-49f9-9e27-7f6f23259dfd" />
+<img width="1919" height="800" alt="image" src="https://github.com/user-attachments/assets/d8f5af4f-a6cb-4193-9508-867c69e1e1c2" />
 
-#Preferred spots
+
+## Preferred spots
 
 <img width="1243" height="578" alt="image" src="https://github.com/user-attachments/assets/1c9da399-b7e8-43b6-9947-476642a885a7" />
 
-#Locations with links attatched to it
+## Locations with links attatched to it
 
+<img width="1919" height="812" alt="image" src="https://github.com/user-attachments/assets/fce01c23-9219-4dfd-9979-281fade2afed" />
 
 
 
